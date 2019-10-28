@@ -7,9 +7,9 @@ import numpy as np
 
 #sample code
 
-#samep dataset
-ONES = pd.Dataframe(np.ones(10))
-ZEROS = pd.Dataframe(np.zeros(50))
+#sampe datasets
+ONES = pd.DataFrame(np.ones(10))
+ZEROS = pd.DataFrame(np.zeros(50))
 
 #sample functions
 def increment(x):
